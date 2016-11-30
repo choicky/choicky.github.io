@@ -9,6 +9,20 @@
     <atom:link href="http://itlaws.cn/categories/it/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>1130 github coding</title>
+      <link>http://itlaws.cn/post/life/2016/1130-github-coding/</link>
+      <pubDate>Wed, 30 Nov 2016 22:11:21 +0800</pubDate>
+      
+      <guid>http://itlaws.cn/post/life/2016/1130-github-coding/</guid>
+      <description>&lt;p&gt;最近一周，在寻找wiki与blog的部署方案。&lt;/p&gt;
+
+&lt;p&gt;最终觉得，托管到github或者coding这种平台是最好的。&lt;/p&gt;
+
+&lt;p&gt;于是，查阅了各种官方文档、各种网友的总结，终于使用hugo架构了自己的blog站点。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>关于</title>
       <link>http://itlaws.cn/post/about/</link>
       <pubDate>Tue, 29 Nov 2016 23:37:15 +0800</pubDate>
