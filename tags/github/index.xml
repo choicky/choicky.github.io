@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT与法务</title>
-    <link>http://itlaws.cn/index.xml</link>
+    <link>http://itlaws.cn/tags/github/index.xml</link>
     <description>Recent content on IT与法务</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <lastBuildDate>Wed, 30 Nov 2016 22:11:21 +0800</lastBuildDate>
-    <atom:link href="http://itlaws.cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://itlaws.cn/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hugo部署在github与coding</title>
@@ -20,18 +19,6 @@
 &lt;p&gt;最终觉得，托管到github或者coding这种平台是最好的。&lt;/p&gt;
 
 &lt;p&gt;于是，查阅了各种官方文档、各种网友的总结，终于使用hugo架构了自己的blog站点。同时托管在github和coding上。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>关于</title>
-      <link>http://itlaws.cn/post/about/</link>
-      <pubDate>Tue, 29 Nov 2016 23:37:15 +0800</pubDate>
-      
-      <guid>http://itlaws.cn/post/about/</guid>
-      <description>&lt;p&gt;A Personal Blog Powered by &lt;a href=&#34;https://github.com&#34;&gt;Hugo&lt;/a&gt; &amp;amp; Github(&lt;a href=&#34;https://github.com&#34;&gt;https://github.com&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Thanks to &lt;a href=&#34;https://github.com/coderzh&#34;&gt;coderzh&lt;/a&gt; for the auto deploy teaching.&lt;/p&gt;
 </description>
     </item>
     
