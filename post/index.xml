@@ -6,8 +6,28 @@
     <description>Recent content in Post-rsses on IT与法务</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <lastBuildDate>Wed, 30 Nov 2016 22:11:21 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 02 Dec 2016 23:45:21 +0800</lastBuildDate>
     <atom:link href="http://itlaws.cn/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>停用coding-pages</title>
+      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</link>
+      <pubDate>Fri, 02 Dec 2016 23:45:21 +0800</pubDate>
+      
+      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</guid>
+      <description>&lt;p&gt;前两天刚折腾好&lt;a href=&#34;http://itlaws.cn/post/life/2016/1130-github-coding/&#34;&gt;在github与coding部署hugo&lt;/a&gt;，国内的访问解析到coding.me，国外解析到github.io。&lt;/p&gt;
+
+&lt;p&gt;看起来一切都很完美。&lt;/p&gt;
+
+&lt;p&gt;但是，今晚发现国内和境外访问时都遭遇了&lt;code&gt;404&lt;/code&gt;，页面未找到。&lt;/p&gt;
+
+&lt;p&gt;Github Pages 遭遇404，我后来知道了原因，是push静态页面时，把&lt;code&gt;CNAME&lt;/code&gt;文件删除掉了，所以域名解析有问题。&lt;/p&gt;
+
+&lt;p&gt;Coding Page遭遇404，我就百思不得其解了。感觉就是coding.net不稳定导致的。&lt;/p&gt;
+
+&lt;p&gt;所以，还是逃离coding.net好了，保留Github Page，也就是 &lt;a href=&#34;http://choicky.github.io&#34;&gt;choicky.github.io&lt;/a&gt;。&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hugo部署在github与coding</title>
