@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT与法务</title>
-    <link>http://itlaws.cn/tags/github-pages/index.xml</link>
+    <link>http://itlaws.cn/tags/github-pages.xml</link>
     <description>Recent content on IT与法务</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <atom:link href="http://itlaws.cn/tags/github-pages/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://itlaws.cn/tags/github-pages.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>停用coding-pages</title>
-      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</link>
+      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages.html</link>
       <pubDate>Fri, 02 Dec 2016 23:45:21 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</guid>
+      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages.html</guid>
       <description>&lt;p&gt;前两天刚折腾好&lt;a href=&#34;http://itlaws.cn/post/life/2016/1130-github-coding/&#34;&gt;在github与coding部署hugo&lt;/a&gt;，国内的访问解析到coding.me，国外解析到github.io。&lt;/p&gt;
 
 &lt;p&gt;看起来一切都很完美。&lt;/p&gt;

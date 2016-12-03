@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT与法务</title>
-    <link>http://itlaws.cn/categories/life/index.xml</link>
+    <link>http://itlaws.cn/categories/life.xml</link>
     <description>Recent content on IT与法务</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <atom:link href="http://itlaws.cn/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://itlaws.cn/categories/life.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>停用coding-pages</title>
-      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</link>
+      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages.html</link>
       <pubDate>Fri, 02 Dec 2016 23:45:21 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</guid>
+      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages.html</guid>
       <description>&lt;p&gt;前两天刚折腾好&lt;a href=&#34;http://itlaws.cn/post/life/2016/1130-github-coding/&#34;&gt;在github与coding部署hugo&lt;/a&gt;，国内的访问解析到coding.me，国外解析到github.io。&lt;/p&gt;
 
 &lt;p&gt;看起来一切都很完美。&lt;/p&gt;
@@ -31,10 +31,10 @@ update on 2016-12-03：把 CNAME 文件放在 hugo 根目录的 static 文件夹
     
     <item>
       <title>hugo部署在github与coding</title>
-      <link>http://itlaws.cn/post/life/2016/1130-github-coding/</link>
+      <link>http://itlaws.cn/post/life/2016/1130-github-coding.html</link>
       <pubDate>Wed, 30 Nov 2016 22:11:21 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/life/2016/1130-github-coding/</guid>
+      <guid>http://itlaws.cn/post/life/2016/1130-github-coding.html</guid>
       <description>&lt;p&gt;最近一周，在寻找wiki与blog的部署方案。&lt;/p&gt;
 
 &lt;p&gt;最终觉得，托管到github或者coding这种平台是最好的。&lt;/p&gt;
@@ -45,10 +45,10 @@ update on 2016-12-03：把 CNAME 文件放在 hugo 根目录的 static 文件夹
     
     <item>
       <title>关于</title>
-      <link>http://itlaws.cn/post/about/</link>
+      <link>http://itlaws.cn/post/about.html</link>
       <pubDate>Tue, 29 Nov 2016 23:37:15 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/about/</guid>
+      <guid>http://itlaws.cn/post/about.html</guid>
       <description>
 
 &lt;h1 id=&#34;本人&#34;&gt;本人&lt;/h1&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT与法务</title>
-    <link>http://itlaws.cn/tags/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml</link>
+    <link>http://itlaws.cn/tags/%E5%85%B3%E4%BA%8E%E6%88%91.xml</link>
     <description>Recent content on IT与法务</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <atom:link href="http://itlaws.cn/tags/%E5%85%B3%E4%BA%8E%E6%88%91/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://itlaws.cn/tags/%E5%85%B3%E4%BA%8E%E6%88%91.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>关于</title>
-      <link>http://itlaws.cn/post/about/</link>
+      <link>http://itlaws.cn/post/about.html</link>
       <pubDate>Tue, 29 Nov 2016 23:37:15 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/about/</guid>
+      <guid>http://itlaws.cn/post/about.html</guid>
       <description>
 
 &lt;h1 id=&#34;本人&#34;&gt;本人&lt;/h1&gt;
