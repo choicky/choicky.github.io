@@ -11,10 +11,10 @@
     
     <item>
       <title>停用coding-pages</title>
-      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages.html</link>
+      <link>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</link>
       <pubDate>Fri, 02 Dec 2016 23:45:21 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages.html</guid>
+      <guid>http://itlaws.cn/post/life/2016/1202-leaving-coding-pages/</guid>
       <description>&lt;p&gt;前两天刚折腾好&lt;a href=&#34;http://itlaws.cn/post/life/2016/1130-github-coding/&#34;&gt;在github与coding部署hugo&lt;/a&gt;，国内的访问解析到coding.me，国外解析到github.io。&lt;/p&gt;
 
 &lt;p&gt;看起来一切都很完美。&lt;/p&gt;
@@ -31,10 +31,10 @@
     
     <item>
       <title>hugo部署在github与coding</title>
-      <link>http://itlaws.cn/post/life/2016/1130-github-coding.html</link>
+      <link>http://itlaws.cn/post/life/2016/1130-github-coding/</link>
       <pubDate>Wed, 30 Nov 2016 22:11:21 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/life/2016/1130-github-coding.html</guid>
+      <guid>http://itlaws.cn/post/life/2016/1130-github-coding/</guid>
       <description>&lt;p&gt;最近一周，在寻找wiki与blog的部署方案。&lt;/p&gt;
 
 &lt;p&gt;最终觉得，托管到github或者coding这种平台是最好的。&lt;/p&gt;
@@ -45,10 +45,10 @@
     
     <item>
       <title>关于</title>
-      <link>http://itlaws.cn/post/about.html</link>
+      <link>http://itlaws.cn/post/about/</link>
       <pubDate>Tue, 29 Nov 2016 23:37:15 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/about.html</guid>
+      <guid>http://itlaws.cn/post/about/</guid>
       <description>
 
 &lt;h1 id=&#34;本人&#34;&gt;本人&lt;/h1&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT与法务</title>
-    <link>http://itlaws.cn/tags/github.xml</link>
+    <link>http://itlaws.cn/tags/github/index.xml</link>
     <description>Recent content on IT与法务</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh_CN</language>
-    <atom:link href="http://itlaws.cn/tags/github.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://itlaws.cn/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hugo部署在github与coding</title>
-      <link>http://itlaws.cn/post/life/2016/1130-github-coding.html</link>
+      <link>http://itlaws.cn/post/life/2016/1130-github-coding/</link>
       <pubDate>Wed, 30 Nov 2016 22:11:21 +0800</pubDate>
       
-      <guid>http://itlaws.cn/post/life/2016/1130-github-coding.html</guid>
+      <guid>http://itlaws.cn/post/life/2016/1130-github-coding/</guid>
       <description>&lt;p&gt;最近一周，在寻找wiki与blog的部署方案。&lt;/p&gt;
 
 &lt;p&gt;最终觉得，托管到github或者coding这种平台是最好的。&lt;/p&gt;
