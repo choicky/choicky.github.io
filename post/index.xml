@@ -43,33 +43,5 @@
 </description>
     </item>
     
-    <item>
-      <title>关于</title>
-      <link>http://itlaws.cn/post/about/</link>
-      <pubDate>Tue, 29 Nov 2016 23:37:15 +0800</pubDate>
-      
-      <guid>http://itlaws.cn/post/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;本人&#34;&gt;本人&lt;/h1&gt;
-
-&lt;p&gt;2001年离开广西，赴天津念大学。
-2005年南开大学毕业后，赴深圳。
-在深圳工作生活至今，执业律师，熟悉知识产权、民事、刑事。
-日常爱好，折腾数码产品、app与软件，游山玩水，看书看电影。&lt;/p&gt;
-
-&lt;h1 id=&#34;本站&#34;&gt;本站&lt;/h1&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://itlaws.cn&#34;&gt;itlaws.cn&lt;/a&gt; 是我2016年新注册的域名，用于记录我在IT技术与Laws法务方面的经历与感悟。
-本站基于 &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; 来架构，并在 &lt;a href=&#34;https://github.com&#34;&gt;Github&lt;/a&gt; 的 &lt;a href=&#34;http://choicky.github.io&#34;&gt;choicky.github.io&lt;/a&gt;存放了一份镜像。&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://wiki.itlaws.cn&#34;&gt;wiki.itlaws.cn&lt;/a&gt; 是偏重于笔记方面的维基。基于 &lt;a href=&#34;https://github.com/gollum/gollum&#34;&gt;gollum&lt;/a&gt; 架构。&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;感谢 &lt;a href=&#34;https://github.com/coderzh&#34;&gt;coderzh&lt;/a&gt; 提供的自动部署脚本。&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
